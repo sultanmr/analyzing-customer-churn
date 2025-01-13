@@ -31,11 +31,6 @@ https://public.tableau.com/app/profile/sultan.riaz/viz/CustomerChurnRateAnalysis
 3. Explore the dashboards to analyze churn patterns and trends.
 4. Use the insights to implement retention strategies.
 
-## Project Structure
-- **/data**: Contains the dataset used for analysis.
-- **/docs**: Case Study of analysis.
-- **README.md**: Project overview and instructions.
-
 ## Future Enhancements
 - Incorporate predictive modeling to forecast churn.
 - Analyze additional factors such as customer support interactions.
